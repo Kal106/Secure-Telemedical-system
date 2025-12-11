@@ -140,9 +140,6 @@ A separate performance testing script (`performance_test.py`) measures these ope
 - Ensure the doctor server is running before launching any patient instances.
 - The system enforces strict authentication; any failed attempts will result in session termination to maintain security.
 - The performance values provided are averages from local testing. Actual performance may vary based on system specifications.
-
-This completes the setup and execution of the Secure Telemedical Conference system along with the functional implementation details.
+- 
 
 ---
-
-This version of the README outlines each step of the implementation along with functional details directly tied to the code in `doctor.py`, `patient.py`, and the utilities. Let me know if you need further modifications or additional information!
